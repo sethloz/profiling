@@ -1,0 +1,39 @@
+{'Male': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Female': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Yes': 0, 'No': 0}
+{'Violation of the law': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Pre-Existing Knowledge': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Moving Traffic Violation': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Vehicle Traffic Violation': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'City Street': 0, 'US Highway': 0, 'State Highway': 0, 'Country Road': 0, 'Private Property': 0}
+{'Yes': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'No': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Consent': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Plain View': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Probable Cause': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Inventory': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Incident to Arrest': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Yes': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'No': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Drugs': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Currency': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Weapons': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Alcohol': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Stolen Property': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Other': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Verbal Warning': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Written Warning': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Citation': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Written Warning/Arrest': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Citation/Arrest': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Arrest': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Violation of Penal Code': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Violation of Traffic Law': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Violation of City Ordinance': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Outstanding Warrant': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Yes': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'No': 0, 'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+0
+{'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
+{'Black': 0, 'Hispanic/Latino': 0, 'White': 0, 'Asian/Pacific Islander': 0, 'Alaska Native/Native American': 0}
